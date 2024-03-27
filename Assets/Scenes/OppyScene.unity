@@ -13191,7 +13191,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1339803187}
-  - component: {fileID: 1339803191}
   - component: {fileID: 1339803189}
   - component: {fileID: 1339803188}
   - component: {fileID: 1339803190}
@@ -13262,7 +13261,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b14164f8f23faae4293baeb84485b3d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _hand: {fileID: 485766750}
+  _hand: {fileID: 0}
 --- !u!114 &1339803190
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13279,21 +13278,6 @@ MonoBehaviour:
   _includeChildrenAsDependents: 1
   _gameObjects: []
   _monoBehaviours: []
---- !u!114 &1339803191
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1339803186}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b023183069df224080314a560e6e1ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  blockId: 4187448e-9c2a-4021-ad92-fb65840f2721
-  instanceId: 778d3b8f-8811-4e0d-9e2a-bf342b875942
-  version: 1
 --- !u!1 &1341213697
 GameObject:
   m_ObjectHideFlags: 0
@@ -18354,7 +18338,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1830808665}
-  - component: {fileID: 1830808669}
   - component: {fileID: 1830808667}
   - component: {fileID: 1830808666}
   - component: {fileID: 1830808668}
@@ -18425,7 +18408,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b14164f8f23faae4293baeb84485b3d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _hand: {fileID: 1188525995}
+  _hand: {fileID: 0}
 --- !u!114 &1830808668
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18442,21 +18425,6 @@ MonoBehaviour:
   _includeChildrenAsDependents: 1
   _gameObjects: []
   _monoBehaviours: []
---- !u!114 &1830808669
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1830808664}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b023183069df224080314a560e6e1ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  blockId: 4187448e-9c2a-4021-ad92-fb65840f2721
-  instanceId: be07c6e2-9c25-4abf-b781-b82816d47af0
-  version: 1
 --- !u!1 &1834537356
 GameObject:
   m_ObjectHideFlags: 0
