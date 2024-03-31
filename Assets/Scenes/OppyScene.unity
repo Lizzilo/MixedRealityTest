@@ -11333,8 +11333,8 @@ MonoBehaviour:
   onObjectsSpawned:
     m_PersistentCalls:
       m_Calls: []
-  spawnLocationIndicator: {fileID: 0}
-  spawnTimer: 0
+  spawnLocationIndicator: {fileID: 838596700550377690, guid: 244c23533bcc2a2478b7b9ac4f7085e6, type: 3}
+  spawnTimer: 7
 --- !u!4 &783132006
 Transform:
   m_ObjectHideFlags: 0
