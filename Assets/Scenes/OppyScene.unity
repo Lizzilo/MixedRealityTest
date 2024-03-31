@@ -4111,9 +4111,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 160065674}
-        m_TargetAssemblyTypeName: Meta.XR.MRUtilityKit.EffectMesh, meta.xr.mrutilitykit
-        m_MethodName: CreateMesh
+      - m_Target: {fileID: 160065676}
+        m_TargetAssemblyTypeName: GenerateNavMesh, Assembly-CSharp
+        m_MethodName: InitializeBounds
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
