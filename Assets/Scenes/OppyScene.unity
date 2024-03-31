@@ -9674,7 +9674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _handGrabState: {fileID: 413710782}
-  _syntheticHand: {fileID: 0}
+  _syntheticHand: {fileID: 660635669}
 --- !u!1 &678569121
 GameObject:
   m_ObjectHideFlags: 0
@@ -17067,7 +17067,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _handGrabState: {fileID: 1341625415}
-  _syntheticHand: {fileID: 0}
+  _syntheticHand: {fileID: 46661662}
 --- !u!1 &1113227806
 GameObject:
   m_ObjectHideFlags: 0
