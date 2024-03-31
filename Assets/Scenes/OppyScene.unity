@@ -20222,7 +20222,7 @@ MonoBehaviour:
   BorderSize: 0.2
   Colliders: 1
   castShadows: 1
-  hideMesh: 0
+  hideMesh: 1
   textureCoordinateModes:
   - U: 0
     V: 0
@@ -31871,7 +31871,7 @@ MonoBehaviour:
   BorderSize: 0.2
   Colliders: 1
   castShadows: 1
-  hideMesh: 0
+  hideMesh: 1
   textureCoordinateModes:
   - U: 0
     V: 0
